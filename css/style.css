@@ -1,0 +1,17 @@
+@media (min-width: 992px)
+.container {
+    max-width: 850px;
+}
+
+.container {
+  margin-top: 25px;
+}
+
+.card {
+  border: none;
+  background: none;
+}
+
+.card-img-top {
+  border-radius: 10%;
+}
